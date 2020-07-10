@@ -28,7 +28,7 @@ url = "https://github.com/151ali/"
 [[params.socialIcons]]
 icon = "fa-envelope"
 title = "e-mail"
-url = "mailto:mail@alexbilz.com"
+url = "ali151yek@gmail.com"
 
 [params.math]
 enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
