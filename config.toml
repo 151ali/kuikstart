@@ -1,3 +1,4 @@
 baseurl = "https://kuikstart.netlify.app/"
 languageCode = "en-us"
 title = "My New Hugo Site"
+theme = "anatole"
