@@ -2,3 +2,10 @@ baseurl = "https://kuikstart.netlify.app/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "anatole"
+
+
+[params]
+title = "I'm a futur Computer Scientist"
+author = "IKHLEF Ali"
+description = "It's a kuikstart"
+profilePicture = "images/profile.jpg"
