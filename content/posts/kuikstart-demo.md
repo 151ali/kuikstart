@@ -4,4 +4,4 @@ draft = false
 title = "kuikstart demo"
 
 +++
-Hello Kuikstart
+Hello Kuikstart , are you based on hugo
