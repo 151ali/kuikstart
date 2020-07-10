@@ -2,7 +2,10 @@
 date = "2020-07-10T21:01:27+01:00"
 draft = false
 title = "kuikstart golang"
-
+tags = [
+    "linux",
+    "golang",
+]
 +++
 # Golang
 
