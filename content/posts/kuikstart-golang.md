@@ -15,16 +15,20 @@ it makes it easy to build **simple**, **reliable**, and **efficient** software :
 
 ## Install Golang on linux machine  
 
-1 - go to the [official download page of Golang](https://golang.org/dl) and download it
+1 - go to the [official download page of Golang](https://golang.org/dl) and download it  
+
 2 - 
 ```bash
 cd Downloads && tar -C /usr/local/ -xzf go*.tar.gz
 ```  
+
 3 - 
 ```bash
 mkdir -p ~/go/{src,pkg,bin}
 ```
+
 4 - apend this lines to your `~/.bashrc` file  
+
 > export GOROOT=/usr/lib/go
 > export GOPATH=$HOME/go
 > export PATH=$GOPATH/bin:$GOROOT/bin:$PATH
