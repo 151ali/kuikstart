@@ -2,7 +2,8 @@ baseurl = "https://kuikstart.netlify.app/"
 languageCode = "en-us"
 title = "My New Hugo Site"
 theme = "anatole"
-
+summarylength = 10
+enableEmoji = true
 
 [params]
 title = "another FCSci"
@@ -10,8 +11,7 @@ author = "IKHLEF Ali"
 description = "It's a kuikstart"
 profilePicture = "images/profile.jpg"
 
-summarylength = 10
-enableEmoji = true
+
 
 ## Social links
 [[params.socialIcons]]
