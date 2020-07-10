@@ -38,10 +38,10 @@ use = "katex"
   url = "/"
 
   [[menu.main]]
-  name = "Posts"
+  name = "Archive"
   weight = 200
-  identifier = "posts"
-  url = "/post/"
+  identifier = "archive"
+  url = "/archive/"
 
   [[menu.main]]
   name = "About"
