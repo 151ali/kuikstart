@@ -29,9 +29,9 @@ mkdir -p ~/go/{src,pkg,bin}
 
 4 - apend this lines to your `~/.bashrc` file  
 
-> export GOROOT=/usr/lib/go
-> export GOPATH=$HOME/go
-> export PATH=$GOPATH/bin:$GOROOT/bin:$PATH
+> export GOROOT=/usr/lib/go  
+> export GOPATH=$HOME/go  
+> export PATH=$GOPATH/bin:$GOROOT/bin:$PATH  
 
 5 - 
 ```bash
