@@ -10,6 +10,19 @@ author = "IKHLEF Ali"
 description = "It's a kuikstart"
 profilePicture = "images/profile.jpg"
 
+
+## Social links
+[[params.socialIcons]]
+icon = "fa-linkedin"
+title = "Linkedin"
+url = "https://linkedin.com/in/151ali/"
+
+[[params.socialIcons]]
+icon = "fa-github"
+title = "GitHub"
+url = "https://github.com/151ali/"
+
+
 [menu]
 
   [[menu.main]]
