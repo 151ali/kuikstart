@@ -10,6 +10,8 @@ author = "IKHLEF Ali"
 description = "It's a kuikstart"
 profilePicture = "images/profile.jpg"
 
+summarylength = 10
+enableEmoji = true
 
 ## Social links
 [[params.socialIcons]]
@@ -22,6 +24,9 @@ icon = "fa-github"
 title = "GitHub"
 url = "https://github.com/151ali/"
 
+[params.math]
+enable = false  # options: true, false. Enable math support globally, default: false. You can always enable math on per page.
+use = "katex"
 
 [menu]
 
